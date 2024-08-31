@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Lic en Sistemas\\Taller II\\Proyecto\\NutriFood\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D06E76AC-8CAB-4380-B29E-A45C14DE1F5B}|NutriFood.csproj|c:\\lic en sistemas\\taller ii\\proyecto\\nutrifood\\presenters\\productpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06E76AC-8CAB-4380-B29E-A45C14DE1F5B}|NutriFood.csproj|solutionrelative:presenters\\productpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06E76AC-8CAB-4380-B29E-A45C14DE1F5B}|NutriFood.csproj|C:\\Lic en Sistemas\\Taller II\\Proyecto\\NutriFood\\models\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06E76AC-8CAB-4380-B29E-A45C14DE1F5B}|NutriFood.csproj|solutionrelative:models\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06E76AC-8CAB-4380-B29E-A45C14DE1F5B}|NutriFood.csproj|C:\\Lic en Sistemas\\Taller II\\Proyecto\\NutriFood\\views\\iproductview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06E76AC-8CAB-4380-B29E-A45C14DE1F5B}|NutriFood.csproj|solutionrelative:views\\iproductview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06E76AC-8CAB-4380-B29E-A45C14DE1F5B}|NutriFood.csproj|C:\\Lic en Sistemas\\Taller II\\Proyecto\\NutriFood\\views\\productview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06E76AC-8CAB-4380-B29E-A45C14DE1F5B}|NutriFood.csproj|solutionrelative:views\\productview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06E76AC-8CAB-4380-B29E-A45C14DE1F5B}|NutriFood.csproj|c:\\lic en sistemas\\taller ii\\proyecto\\nutrifood\\views\\productview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D06E76AC-8CAB-4380-B29E-A45C14DE1F5B}|NutriFood.csproj|solutionrelative:views\\productview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06E76AC-8CAB-4380-B29E-A45C14DE1F5B}|NutriFood.csproj|C:\\Lic en Sistemas\\Taller II\\Proyecto\\NutriFood\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06E76AC-8CAB-4380-B29E-A45C14DE1F5B}|NutriFood.csproj|solutionrelative:models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductPresenter.cs",
+              "DocumentMoniker": "C:\\Lic en Sistemas\\Taller II\\Proyecto\\NutriFood\\Presenters\\ProductPresenter.cs",
+              "RelativeDocumentMoniker": "Presenters\\ProductPresenter.cs",
+              "ToolTip": "C:\\Lic en Sistemas\\Taller II\\Proyecto\\NutriFood\\Presenters\\ProductPresenter.cs",
+              "RelativeToolTip": "Presenters\\ProductPresenter.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAMwB8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:01:55.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductView.cs",
+              "DocumentMoniker": "C:\\Lic en Sistemas\\Taller II\\Proyecto\\NutriFood\\Views\\ProductView.cs",
+              "RelativeDocumentMoniker": "Views\\ProductView.cs",
+              "ToolTip": "C:\\Lic en Sistemas\\Taller II\\Proyecto\\NutriFood\\Views\\ProductView.cs",
+              "RelativeToolTip": "Views\\ProductView.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwBUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:12:44.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductView.cs [Design]",
+              "DocumentMoniker": "C:\\Lic en Sistemas\\Taller II\\Proyecto\\NutriFood\\Views\\ProductView.cs",
+              "RelativeDocumentMoniker": "Views\\ProductView.cs",
+              "ToolTip": "C:\\Lic en Sistemas\\Taller II\\Proyecto\\NutriFood\\Views\\ProductView.cs [Design]",
+              "RelativeToolTip": "Views\\ProductView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T14:07:06.784Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Lic en Sistemas\\Taller II\\Proyecto\\NutriFood\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProductModel.cs",
+              "ToolTip": "C:\\Lic en Sistemas\\Taller II\\Proyecto\\NutriFood\\Models\\ProductModel.cs",
+              "RelativeToolTip": "Models\\ProductModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:54:18.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductView.cs",
+              "DocumentMoniker": "C:\\Lic en Sistemas\\Taller II\\Proyecto\\NutriFood\\Views\\IProductView.cs",
+              "RelativeDocumentMoniker": "Views\\IProductView.cs",
+              "ToolTip": "C:\\Lic en Sistemas\\Taller II\\Proyecto\\NutriFood\\Views\\IProductView.cs",
+              "RelativeToolTip": "Views\\IProductView.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:43:48.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Lic en Sistemas\\Taller II\\Proyecto\\NutriFood\\Models\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Models\\IProductRepository.cs",
+              "ToolTip": "C:\\Lic en Sistemas\\Taller II\\Proyecto\\NutriFood\\Models\\IProductRepository.cs",
+              "RelativeToolTip": "Models\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:38:58.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
