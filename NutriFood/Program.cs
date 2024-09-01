@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using NutriFood.Models;
+using NutriFood.Views;
+using NutriFood.Presenters;
+using NutriFood.Repositories;
 
 namespace NutriFood
 {
@@ -16,7 +20,11 @@ namespace NutriFood
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            //Application.Run();
+            //
+            string sqlConnection = ""; //Acá iría la conneción con SQL
+            IMainForm mainForm = new MainForm();
+            new MainPresenter(mainForm, sqlConnection);
+            Application.Run((Form)mainForm);
         }
     }
 }

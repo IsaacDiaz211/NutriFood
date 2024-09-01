@@ -33,7 +33,7 @@ namespace NutriFood.Views
             get { throw new NotImplementedException(); }
             set { throw new NotImplementedException(); }
         }
-        public string Name
+        public new string Name
         {
             get { return TBName.Text; }
             set { TBName.Text = value; }
@@ -111,9 +111,28 @@ namespace NutriFood.Views
         {
             dataGridView1.DataSource = productList;
         }
-        public void Show()
+        /*public new void Show()
         {
             throw new NotImplementedException();
+        }*/
+
+        private static ProductView instance;
+        public static ProductView GetInstance(Form parentContainer)
+        {
+            if(instance == null || instance.IsDisposed)
+            {
+                instance = new ProductView();
+                instance.MdiParent = parentContainer;
+                instance.FormBorderStyle = FormBorderStyle.None;
+                instance.Dock = DockStyle.Fill;
+            }
+            else 
+            {
+                if (instance.WindowState == FormWindowState.Minimized)
+                    instance.WindowState = FormWindowState.Normal;
+                instance.BringToFront();
+            }
+            return instance;
         }
     }
 }

@@ -8,3 +8,4 @@ C:\Lic en Sistemas\Taller II\Proyecto\NutriFood\bin\Debug\NutriFood.exe
 C:\Lic en Sistemas\Taller II\Proyecto\NutriFood\bin\Debug\NutriFood.pdb
 C:\Lic en Sistemas\Taller II\Proyecto\NutriFood\obj\Debug\NutriFood.exe
 C:\Lic en Sistemas\Taller II\Proyecto\NutriFood\obj\Debug\NutriFood.pdb
+C:\Lic en Sistemas\Taller II\proyecto\NutriFood\obj\Debug\NutriFood.Views.MainForm.resources

@@ -10,7 +10,7 @@ namespace NutriFood.Models
     {
         void Add(ProductModel product);
         void Update(ProductModel product);
-        void Delete(ProductModel product);
+        void Delete(int id);
         IEnumerable<ProductModel> GetAll();
         IEnumerable<ProductModel> GetByValue(string value);
     }
